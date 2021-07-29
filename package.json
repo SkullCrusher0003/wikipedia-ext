@@ -1,0 +1,32 @@
+{
+  "name": "wikipedia",
+  "displayName": "Wikipedia 4 Visual Studio",
+  "version": "1.0.1",
+  "publisher": "DeveloperSkull",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./build/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "wikipedia.searchWikipedia",
+        "title": "Search Wikipedia"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "wikipedia.searchWikipedia",
+        "key": "ALT + 3"
+      }
+    ]
+  },
+  "activationEvents": [
+    "onCommand:wikipedia.searchWikipedia"
+  ],
+  "icon": "logo.png",
+  "description": "A simple, easy-to-use extension to quickly search wikipedia."
+}
