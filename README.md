@@ -10,7 +10,7 @@ There are a couple of ways to use the extension.
 4. Select your result
 5. Watch it open the wiki page!
 
-![sel.gif]()
+![sel.gif](https://github.com/SkullCrusher0003/wikipedia-ext/blob/main/sel.gif)
 
 - Input Method
 1. Hit Ctrl + Shift + P
@@ -19,4 +19,4 @@ There are a couple of ways to use the extension.
 4. Select your result
 5. Watch it open the wiki page!
 
-![inp.gif]()
+![inp.gif](https://github.com/SkullCrusher0003/wikipedia-ext/blob/main/inp.gif)
