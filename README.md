@@ -10,9 +10,13 @@ There are a couple of ways to use the extension.
 4. Select your result
 5. Watch it open the wiki page!
 
+![sel.gif]()
+
 - Input Method
-- Hit Ctrl + Shift + P
-- Type ">Search Wikipedia" and hit enter
-- Type your keyword in the input box
-- Select your result
-- Watch it open the wiki page!
+1. Hit Ctrl + Shift + P
+2. Type ">Search Wikipedia" and hit enter
+3. Type your keyword in the input box
+4. Select your result
+5. Watch it open the wiki page!
+
+![inp.gif]()
