@@ -1,1 +1,1 @@
-# wikipedia-ext
+# Wikipedia 4 Visual Studio
